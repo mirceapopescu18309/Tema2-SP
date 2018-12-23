@@ -28,3 +28,5 @@ xlabel('Pulsatia w');
 ylabel('Amplitudinile Ak');
 title('Spectrul de Amplitudini');
 hold off
+%In concluzie , analiza Fourier a semnalelor analogice ne permite sa exprimam orice semnal 
+%intr-o suma finita de semnale elementare.
